@@ -1,6 +1,0 @@
-feature_name,feature_desc,reason_removed
-UNITID,Describes the ID of the school,"This is only used for located these schools in public systems, they have no impact on data and do not vary, simply a unique identifer instead of college name for sending transcript information"
-OPEID,"Tracks the university's changes
-over time, such as renames, location changes, and so on","As we are only looking at the current state of each institution, its logistical history has no effect on our analysis"
-INSTURL,The URL of the college,URL information has no effect on any data we are interested in
-NPCURL,The URL for the university's proprietary tuition calculator,"Tuition is already provided in the dataset, so we are not interested in using every calculation tool provided by each university"
